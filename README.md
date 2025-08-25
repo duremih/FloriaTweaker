@@ -26,7 +26,6 @@ Floria Tweaker is a modern Windows tweaking and optimization tool with a sleek O
 ---
 
 ## Screenshots
-
-| Screenshot 1 | Screenshot 2 | Screenshot 3 |
-|--------------|--------------|--------------|
-| ![Screenshot1](screenshot1.png) | ![Screenshot2](screenshot2.png) | ![Screenshot3](screenshot3.png) |
+![Screenshot1](screenshot1.png)
+![Screenshot2](screenshot2.png)
+![Screenshot3](screenshot3.png)
