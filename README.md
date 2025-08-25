@@ -20,7 +20,8 @@ Floria Tweaker is a modern Windows tweaking and optimization tool with a sleek O
   - Make taskbar transparent / restore opacity  
 - **System Info**: Displays computer name, username, OS version, 64-bit status, processor count, and .NET version  
 - **Settings**: Opens Windows system settings  
-- **About**: Shows program and developer information  
+- **About**: Shows program and developer information
+(If the pictures are not displayed properly, change the folder name to Resource)
 
 ---
 
